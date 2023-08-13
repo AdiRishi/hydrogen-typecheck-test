@@ -4,6 +4,7 @@
     "build": "turbo build",
     "clean": "turbo clean",
     "dev": "turbo dev --no-cache  --continue",
+    "typecheck": "turbo run typecheck",
     "format": "prettier --write \"**/*.{ts,tsx,md}\"",
     "lint": "turbo lint",
     "test": "turbo test"
