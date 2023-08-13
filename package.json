@@ -9,7 +9,7 @@
     "test": "turbo test"
   },
   "devDependencies": {
-    "prettier": "^2.7.1",
+    "prettier": "^3.0.1",
     "turbo": "latest"
   },
   "packageManager": "yarn@1.22.19",
